@@ -1,4 +1,4 @@
-package mystl
+package gostl
 
 import "testing"
 
